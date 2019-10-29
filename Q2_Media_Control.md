@@ -32,7 +32,7 @@ I believe there many programmers or non-programmer experts like `udexon` who hav
 
 - GOQ_Q3: What would be the best interface to present the ideas or repositories owned by `udexon` to  third parties who are unfamiliar with his work?
 
-Answer: A question specifically relating to a markdown article.
+- Answer: A question specifically relating to a markdown article.
 
 e.g. 
 
