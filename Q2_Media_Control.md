@@ -40,7 +40,9 @@ e.g.
 
 As you can see, a question is more informative than a subject heading which is usually an incomplete sentence. Further, a question may have more than one answers. Related questions may be easily group together for further analysis or exploration.
 
+Now imagine the effects of hundreds of questions similar to the above on the consciousness of the 99% of the population:
 
+- A question has an anonymous leveling effect compared to a subject heading, which a reader would normally associate it to an author, and may prejudice against the article by the fame of the author.
 
 
 (I am writing this on an on-going basis. If you are impatient, please leave me a message. I am also finding new evidence that Graph of Questions is an effective and productive format to organize impromptu writings.)
