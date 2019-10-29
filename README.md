@@ -12,7 +12,7 @@ We will start using the simplest method: by using github.com itself as database,
 
 So this will be the starting point of Graph of Questions for now:
 
-https://github.com/udexon/GOQ
+- https://github.com/udexon/GOQ
 
 It is called a graph but not tree as we ensivage that if anyone think it is a good idea, he (she) will fork it and make another starting point for Graph of Questions.
 
