@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/History_of_television
 
 The second decade of the 21st century witnessed the maturity of mobile phones and social media, as well as the increasing sophistication of media control.
 
-It is in this background, Graph of Questions is conceived.
+It is against this background, Graph of Questions is conceived.
 
 For example, a press release by a giant corporation such as Google will get shared and upvoted by a large number of Redditors. 
 
