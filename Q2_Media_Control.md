@@ -24,6 +24,22 @@ For example, a dedicated programmer would normally work on a project consistentl
 
 GOQ provides an integrated platform for such programmer together with related experts, by linking related posts and comments from various platforms over a period of time. 
 
+Perhaps the easiest and best example to illustrate the use of GOQ is the author of GOQ itself:
+
+- https://github.com/udexon
+
+I believe there many programmers or non-programmer experts like `udexon` who have posts and comments on various social media platforms.
+
+- GOQ_Q3: What would be the best interface to present the ideas or repositories owned by `udexon` to  third parties who are unfamiliar with his work?
+
+Answer: A question specifically relating to a markdown article.
+
+e.g. 
+
+- GOQ_Q4: How may one model the mechanism of a programming writing programs?
+
+- Answer: https://github.com/udexon/GOEHDOM/blob/master/Homoiconicity.md
+
 
 
 
