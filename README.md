@@ -22,4 +22,6 @@ By the way, I started this project as an experiment to address issues related to
 
 - Q1: How do we overcome the media control imposed by the bourgeousie and escape the wrath of technological singularity?
 
-So you may now claim Q2, Q3, ....
+- Q2: [How does Graph of Questions overcome media control?](https://github.com/udexon/GOQ/blob/master/Q2_Media_Control.md)
+
+So you may now claim Q3, ....
