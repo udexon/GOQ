@@ -15,3 +15,7 @@ So this will be the starting point of Graph of Questions for now:
 https://github.com/udexon/GOQ
 
 It is called a graph but not tree as we ensivage that if anyone think it is a good idea, he (she) will fork it and make another starting point for Graph of Questions.
+
+By the way, I started this project as an experiment to address issues related to technological singularity:
+
+- Q1: How do we overcome the media control imposed by the bourgeousie and escape the wrath of technological singularity?
