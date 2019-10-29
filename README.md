@@ -4,6 +4,8 @@
 - https://mobile.twitter.com/noamchomskyT/status/1188236952006549505
 - -- Noam Chomsky
 
+- https://www.reddit.com/r/GraphOfQuestions/
+
 Search engines, Wikipedia, Quora etc. encourage in depth answers but narrow views. Oftentimes, the user does not know what else are the topics that are related to his (her) question and these websites do not address this problem.
 
 Graph of Questions aim to be like [Tree of Life web project](http://tolweb.org/tree/), to construct a graph database and allow users to visualize it.
