@@ -31,13 +31,11 @@ Perhaps the easiest and best example to illustrate the use of GOQ is the author 
 I believe there many programmers or non-programmer experts like `udexon` who have posts and comments on various social media platforms.
 
 - GOQ_Q3: What would be the best interface to present the ideas or repositories owned by `udexon` to  third parties who are unfamiliar with his work?
-
 - Answer: A question specifically relating to a markdown article.
 
 e.g. 
 
 - GOQ_Q4: How may one model the mechanisms of a programmer writing programs?
-
 - Answer: https://github.com/udexon/GOEHDOM/blob/master/Homoiconicity.md
 
 As you can see, a question is more informative than a subject heading which is usually an incomplete sentence. Further, a question may have more than one answers. Related questions may be easily group together for further analysis or exploration.
