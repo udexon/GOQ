@@ -14,4 +14,19 @@ The second decade of the 21st century witnessed the maturity of mobile phones an
 
 It is in this background, Graph of Questions is conceived.
 
+For example, a press release by a giant corporation such as Google will get shared and upvoted by a large number of Redditors. 
+
+New ideas may reach their targeted audience but are usually restricted within specialized subreddits. 
+
+Graph of Questions is designed to overcome such discrepancies.
+
+For example, a dedicated programmer would normally work on a project consistently over several months, publishing posts or relevant comments at various platforms.
+
+GOQ provides an integrated platform for such programmer together with related experts, by linking related posts and comments from various platforms over a period of time. 
+
+
+
+
+
+
 (I am writing this on an on-going basis. If you are impatient, please leave me a message. I am also finding new evidence that Graph of Questions is an effective and productive format to organize impromptu writings.)
