@@ -36,11 +36,11 @@ Answer: A question specifically relating to a markdown article.
 
 e.g. 
 
-- GOQ_Q4: How may one model the mechanism of a programming writing programs?
+- GOQ_Q4: How may one model the mechanisms of a programmer writing programs?
 
 - Answer: https://github.com/udexon/GOEHDOM/blob/master/Homoiconicity.md
 
-
+As you can see, a question is more informative than a subject heading which is usually an incomplete sentence. Further, a question may have more than one answers. Related questions may be easily group together for further analysis or exploration.
 
 
 
