@@ -8,7 +8,7 @@ Search engines, Wikipedia, Quora etc. encourage in depth answers but narrow view
 
 Graph of Questions aim to be like [Tree of Life web project](http://tolweb.org/tree/), to construct a graph database and allow users to visualize it.
 
-We will start using the simplest method: by using github.com itself as database, as it support Markdown formats which most programmers are familiar with. The rest of the visualization modules can be built on the client side, or on web pages which access github markdown files directly.
+We will start using the simplest method: by using github.com itself as database, as it supports Markdown format which most programmers are familiar with. The rest of the visualization modules can be built on the client side, or on web pages which access github markdown files directly.
 
 So this will be the starting point of Graph of Questions for now:
 
