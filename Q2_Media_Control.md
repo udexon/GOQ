@@ -44,5 +44,8 @@ Now imagine the effects of hundreds of questions similar to the above on the con
 
 - A question has an anonymous leveling effect compared to a subject heading, which a reader would normally associate it to an author, and may prejudice against the article by the fame of the author.
 
+- GOQ_Q5: Will GOQ_Q4 be drown by other questions, e.g. by parties who have vested interested in media control?
+
+
 
 (I am writing this on an on-going basis. If you are impatient, please leave me a message. I am also finding new evidence that Graph of Questions is an effective and productive format to organize impromptu writings.)
