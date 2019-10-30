@@ -20,3 +20,5 @@ Free software based on GNU tools and Linux have nurtured the majority of the top
 
 
 #### GOQ as a Prototype of GNU Cloud
+
+Graph of Questions (GOQ) is based on a very simple idea: linking a markdown article (on GitHub or equivalent) to a question. Detailed discussions about the rationales and benefits of GOQ can be found in related GOQ_Q* questions. In this article, we will focus on how to develop GOQ as a prototype of GNU Cloud and using GOQ / GNU Cloud to build up the team with the objective of developing GNU Cloud.
