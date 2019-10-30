@@ -14,7 +14,7 @@ Show old links like Stallman interview first. Get people's interest. Then write 
 
 The purpose of this article, besides reminiscing the past, is to look at the future.
 
-Almost 3 decades have passed since the Linux kernel was first released. In the years that followed, github.com, also started by Linus Torvalds himself, has been acquired by its former nemesis, Microsoft Corporation, one of whose former CEO Steve Balmer having accused Linux as Communism.
+Almost 3 decades have passed since the Linux kernel was first released. In the years that followed, github.com, primarily based on `git`, a tool invented by Linus Torvalds himself, has been acquired by its former nemesis, Microsoft Corporation, one of whose former CEO Steve Balmer having accused Linux as Communism.
 
 Free software based on GNU tools and Linux have nurtured the majority of the top ten of software companies today. As innovations in software peter out, an inescapable sign of maturity, it is perhaps high time to reconsider the plausibility and possibility of reverse engineering the software platforms owned by these billion dollars companies, which rely on free software components in the first place.
 
