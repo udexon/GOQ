@@ -26,7 +26,7 @@ By the way, I started this project as an experiment to address issues related to
 
 - GOQ_Q2: [How does Graph of Questions overcome media control?](https://github.com/udexon/GOQ/blob/master/Q2_Media_Control.md)
 
-- [GOQ_Q3: What would be the best interface to present the ideas or repositories owned by `udexon` to  third parties who are unfamiliar with his work?](https://github.com/udexon/GOQ/edit/master/Q2_Media_Control.md#GOQ_Q3)
+- [GOQ_Q3: What would be the best interface to present the ideas or repositories owned by `udexon` to  third parties who are unfamiliar with his work?](https://github.com/udexon/GOQ/blob/master/Q2_Media_Control.md#GOQ_Q3)
 - GOQ_Q4: How may one model the mechanisms of a programmer writing programs?
 - GOQ_Q5: Will GOQ_Q4 be drown by other questions, e.g. by parties who have vested interested in media control?
 
