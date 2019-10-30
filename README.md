@@ -1,5 +1,5 @@
 # Graph of Questions
-#### GOQ: Graph of Questions --- a Collaborative Project to Construct an index to ALL Questions
+## GOQ: Graph of Questions --- a Collaborative Project to Construct an Index to ALL Questions
 
 - The general population dosen't know whats happening and it doesn't even know that it doesn't know. 
 - https://mobile.twitter.com/noamchomskyT/status/1188236952006549505
