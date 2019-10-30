@@ -6,6 +6,11 @@ When two persons meet face to face, the most effective communications comes in t
 
 In online communications, forum discussions capture the essesence of dialogue, thus becoming the most effective form of online communications, for example, to discuss live topics, as well as in depth. e.g. Reddit.
 
+Other than that, most of online communications take the form of web page, which is primarily based on traditional document, with additional hyperlinks.
+
+Traditional document has developed over millennia and was not designed for impromptu communications, as the medium for writing, paper, was a scarce resource.
+
+
 
 
 
