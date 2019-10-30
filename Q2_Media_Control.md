@@ -44,7 +44,7 @@ Now imagine the effects of hundreds of questions similar to the above on the con
 
 - A question has an anonymous leveling effect compared to a subject heading, which a reader would normally associate it to an author, and may prejudice against the article by the fame of the author.
 
-- GOQ_Q5: Will GOQ_Q4 be drown by other questions, e.g. by parties who have vested interested in media control?
+- <a name="GOQ_Q5"> GOQ_Q5: Will GOQ_Q4 be drown by other questions, e.g. by parties who have vested interested in media control? </a>
 - Answer: Unless this repository is deleted by force, as long as somone else replicates Graph of Questions elsewhere, finding a relevant question is much easier and more systematic than creating a hierarchy of non question subject headings -- an unsolved problem despite Google or Wikipedia's best efforts.
 
 
