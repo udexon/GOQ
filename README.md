@@ -22,8 +22,18 @@ It is called a graph but not tree as we ensivage that if anyone think it is a go
 
 By the way, I started this project as an experiment to address issues related to technological singularity:
 
-- Q1: How do we overcome the media control imposed by the bourgeousie and escape the wrath of technological singularity?
+- GOC_Q1: How do we overcome the media control imposed by the bourgeousie and escape the wrath of technological singularity?
 
-- Q2: [How does Graph of Questions overcome media control?](https://github.com/udexon/GOQ/blob/master/Q2_Media_Control.md)
+- GOQ_Q2: [How does Graph of Questions overcome media control?](https://github.com/udexon/GOQ/blob/master/Q2_Media_Control.md)
 
-So you may now claim Q3, ....
+- GOQ_Q3: What would be the best interface to present the ideas or repositories owned by `udexon` to  third parties who are unfamiliar with his work?
+- GOQ_Q4: How may one model the mechanisms of a programmer writing programs?
+- GOQ_Q5: Will GOQ_Q4 be drown by other questions, e.g. by parties who have vested interested in media control?
+
+For convenience, each question is labeled with GOQ_[Question_Number].
+
+You may extend the GOQ label with your GitHub Username (or equivalent) and Repository name, e.g.
+
+- JSmith_Hello_GOQ_Q1
+
+Updating the question database consists of simply running `grep GOQ_` over markdown files.
