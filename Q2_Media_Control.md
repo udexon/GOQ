@@ -30,7 +30,7 @@ Perhaps the easiest and best example to illustrate the use of GOQ is the author 
 
 I believe there many programmers or non-programmer experts like `udexon` who have posts and comments on various social media platforms.
 
-- GOQ_Q3: What would be the best interface to present the ideas or repositories owned by `udexon` to  third parties who are unfamiliar with his work?
+- <a name="GOQ_Q3"> GOQ_Q3: What would be the best interface to present the ideas or repositories owned by `udexon` to  third parties who are unfamiliar with his work? </a>
 - Answer: A question specifically relating to a markdown article.
 
 e.g. 
