@@ -25,4 +25,4 @@ Graph of Questions (GOQ) is based on a very simple idea: linking a markdown arti
 
 We believe the prime obstacle in developing an initiative like GNU Cloud in the past has been finding an incremental development model, i.e. something like GOQ. As some readers may notice, GOQ simply make use of GitHub as a storage platform. All other operations can simply be performed via HTTP GET. Prior to this, most free or proprietary projects would build up their own web based or SQL platoforms or protocol, making an incremental development model difficult, as the incompatible protocols amongst projects resulted in fragmentation of development effort.
 
-Sharing most current ideas, need a flexible platform.
+Sharing most current ideas, need a flexible platform. Build the team to develop the code, recursive?
