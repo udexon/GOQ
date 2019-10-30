@@ -1,6 +1,6 @@
 ### GOQ_Q9: Is it possible to construct truly free social media owned by individual free software programmers?
 
-#### GNU Cloud
+
 
 GNU tools and Linux are in fact products of reverse engineering. They were just too successful that this fact has been overlooked as they have become the de facto standard, rather than being seen as the "clones". And clones they are -- clones of the Unix operating system and tools that began exactly 50 years ago.
 
@@ -18,3 +18,5 @@ Almost 3 decades have passed since the Linux kernel was first released. In the y
 
 Free software based on GNU tools and Linux have nurtured the majority of the top ten of software companies today. As innovations in software peter out, an inescapable sign of maturity, it is perhaps high time to reconsider the plausibility and possibility of reverse engineering the software platforms owned by these billion dollars companies, which rely on free software components in the first place.
 
+
+#### GOQ as a Prototype of GNU Cloud
