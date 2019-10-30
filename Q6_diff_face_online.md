@@ -15,4 +15,4 @@ Traditional document has developed over millennia and was not designed for impro
 
 We only need to implement a small change to the conventional web page -- add questions. The end result is Graph of Questions.
 
-This novelty, although simple, is not in the curriculum of education in most countries.
+This novelty, although simple, is not in the curriculum of education in most countries. As such, it may take some time to popularize this format.
