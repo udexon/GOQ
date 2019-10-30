@@ -11,7 +11,6 @@ Other than that, most of online communications take the form of web page, which 
 Traditional document has developed over millennia and was not designed for impromptu communications, as the medium for writing, paper, was a scarce resource.
 
 
-
-
-
 ### GOQ_Q7: Can we implement the difference(s) in GOQ_Q6 in online communications?
+
+We only need to implement a small change to the conventional web page -- add questions.
