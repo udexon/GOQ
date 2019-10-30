@@ -37,3 +37,5 @@ You may extend the GOQ label with your GitHub Username (or equivalent) and Repos
 - JSmith_Hello_GOQ_Q1
 
 Updating the question database consists of simply running `grep GOQ_` over markdown files.
+
+More complex HTML and Markdown tagging such as <a name> can be automated with various client side commands, creating a client-server ecosystem based on GitHub, a powerful and virtually unlimited storage backed by Linus Torvalds and Microsoft!
