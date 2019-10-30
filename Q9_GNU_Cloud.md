@@ -29,4 +29,6 @@ Sharing most current ideas, need a flexible platform. Build the team to develop 
 
 Sharing GOQ_Q* post to social media, Reddit etc. Users leave comment. Harvest user names. Build team.
 
+Datong Token, public key encryption, stored encrypted data on github.com, why not？
+
 (To be continued. Please leave a comment if you have some ideas to share.)
