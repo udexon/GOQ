@@ -28,7 +28,7 @@ By the way, I started this project as an experiment to address issues related to
 - GOQ_Q2: [How does Graph of Questions overcome media control?](https://github.com/udexon/GOQ/blob/master/Q2_Media_Control.md)
 
 - GOQ_Q3: [ What would be the best interface to present the ideas or repositories owned by `udexon` to  third parties who are unfamiliar with his work?](https://github.com/udexon/GOQ/blob/master/Q2_Media_Control.md#GOQ_Q3)
-- GOQ_Q4: How may one model the mechanisms of a programmer writing programs?
+- GOQ_Q4: [ How may one model the mechanisms of a programmer writing programs? ](https://github.com/udexon/GOEHDOM/blob/master/Homoiconicity.md)
 - GOQ_Q5: Will GOQ_Q4 be drown by other questions, e.g. by parties who have vested interested in media control?
 - GOQ_Q6: [ What is (are) the main difference(s) between face to face communications and online communications? ](https://github.com/udexon/GOQ/blob/master/Q6_diff_face_online.md#goq_q6-what-is-are-the-main-differences-between-face-to-face-communications-and-online-communications)
 - GOQ_Q7: [ Can we implement the difference(s) in GOQ_Q6 in online communications? ](https://github.com/udexon/GOQ/blob/master/Q6_diff_face_online.md#goq_q7-can-we-implement-the-differences-in-goq_q6-in-online-communications)
