@@ -28,3 +28,5 @@ We believe the prime obstacle in developing an initiative like GNU Cloud in the 
 Sharing most current ideas, need a flexible platform. Build the team to develop the code, recursive?
 
 Sharing GOQ_Q* post to social media, Reddit etc. Users leave comment. Harvest user names. Build team.
+
+(To be continued. Please leave a comment if you have some ideas to share.)
