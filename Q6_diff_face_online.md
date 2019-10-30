@@ -13,4 +13,6 @@ Traditional document has developed over millennia and was not designed for impro
 
 ### GOQ_Q7: Can we implement the difference(s) in GOQ_Q6 in online communications?
 
-We only need to implement a small change to the conventional web page -- add questions.
+We only need to implement a small change to the conventional web page -- add questions. The end result is Graph of Questions.
+
+This novelty, although simple, is not in the curriculum of education in most countries.
