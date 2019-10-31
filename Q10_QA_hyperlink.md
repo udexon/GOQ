@@ -2,7 +2,7 @@
 
 <img src="https://github.com/udexon/GOQ/blob/master/Obama.svg?sanitize=true">
 
-<img src="https://github.com/udexon/GOQ/blob/master/Link.svg?sanitize=true" height="500">
+<img src="https://github.com/udexon/GOQ/blob/master/Link.svg?sanitize=true" height="300">
 
 https://github.com/udexon/GOQ/blob/master/Link.svg
 
