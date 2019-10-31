@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="811.38597"
-     inkscape:cy="-410.04666"
+     inkscape:zoom="1"
+     inkscape:cx="277.10025"
+     inkscape:cy="-91.661336"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -215,8 +215,8 @@
       </g>
     </g>
     <text
-       y="-111.33929"
-       x="-132.37476"
+       y="-95.728874"
+       x="-133.1685"
        style="font-size:0.11999998px;fill-rule:evenodd;stroke-width:0.28221998;stroke-linejoin:round"
        id="text4707"
        class="TextShape">
@@ -229,8 +229,8 @@
         <tspan
            style="stroke-width:0.28221998"
            id="tspan4695"
-           y="18.940702"
-           x="-25.894779"
+           y="34.551121"
+           x="-26.688528"
            class="TextPosition">
           <tspan
              style="fill:#000000;stroke:none;stroke-width:0.28221998"
@@ -239,7 +239,7 @@
         <tspan
            style="stroke-width:0.28221998"
            id="tspan4699"
-           y="16.270702"
+           y="31.881119"
            class="TextPosition">
           <tspan
              style="font-size:3.67999935px;fill:#000000;stroke:none;stroke-width:0.28221998"
@@ -249,7 +249,7 @@
         <tspan
            style="stroke-width:0.28221998"
            id="tspan4703"
-           y="18.940702"
+           y="34.551121"
            class="TextPosition">
           <tspan
              style="fill:#000000;stroke:none;stroke-width:0.28221998"
@@ -257,5 +257,32 @@
         </tspan>
       </tspan>
     </text>
+    <g
+       transform="matrix(0.01,0,0,0.01,-133.65476,-106.49929)"
+       style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+       id="g4774"
+       class="com.sun.star.drawing.LineShape">
+      <g
+         id="id11">
+        <rect
+           style="fill:none;stroke:none"
+           id="rect4767"
+           height="301"
+           width="2034"
+           y="13169"
+           x="10143"
+           class="BoundingBox" />
+        <path
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="path4769"
+           d="m 10144,13319 h 1602" />
+        <path
+           style="fill:#000000;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path4771"
+           d="m 12176,13319 -450,-150 v 300 z" />
+      </g>
+    </g>
   </g>
 </svg>
