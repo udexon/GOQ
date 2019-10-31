@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="277.10025"
-     inkscape:cy="-91.661339"
+     inkscape:zoom="3.2609507"
+     inkscape:cx="257.90025"
+     inkscape:cy="-42.595894"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -190,7 +190,7 @@
       </tspan>
     </text>
     <g
-       transform="matrix(0.01,0,0,0.01,-133.65476,-106.49929)"
+       transform="matrix(0.00956121,0,0,0.01,-128.31157,-106.49929)"
        style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
        id="g4774"
        class="com.sun.star.drawing.LineShape">
