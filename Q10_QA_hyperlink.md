@@ -1,5 +1,5 @@
 
-<img src="https://github.com/udexon/GOQ/blob/master/Obama.svg?sanitize=true" width="600">
+<img src="https://github.com/udexon/GOQ/blob/master/Obama_Answer.svg?sanitize=true" width="600">
 
 <img src="https://github.com/udexon/GOQ/blob/master/Link.svg?sanitize=true" height="100">
 
