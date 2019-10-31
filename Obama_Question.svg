@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="158.90111mm"
+   height="57.43222mm"
+   viewBox="0 0 158.90111 57.43222"
+   version="1.1"
+   id="svg5370"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Obama_Question.svg">
+  <defs
+     id="defs5364" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400.28556"
+     inkscape:cy="-57.180957"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5367">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.075555,-76.271985)">
+    <g
+       transform="matrix(0.01,0,0,0.01,-22.634445,-83.446905)"
+       style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+       id="g4628"
+       class="com.sun.star.drawing.TextShape">
+      <g
+         id="id3">
+        <rect
+           style="fill:none;stroke:none"
+           id="rect4601"
+           height="2543"
+           width="10798"
+           y="19160"
+           x="5317"
+           class="BoundingBox" />
+        <path
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="path4603"
+           d="M 10716,21701 H 5318 v -2540 h 10795 v 2540 z" />
+        <text
+           id="text4625"
+           class="TextShape">
+          <tspan
+             style="font-weight:400;font-size:635px;font-family:'Liberation Sans', sans-serif"
+             id="tspan4623"
+             font-weight="400"
+             font-size="635px"
+             class="TextParagraph">
+            <tspan
+               id="tspan4609"
+               y="19886"
+               x="5568"
+               class="TextPosition">
+              <tspan
+                 style="fill:#000000;stroke:none"
+                 id="tspan4605">Who is</tspan>
+              <tspan
+                 style="fill:#000000;stroke:none"
+                 id="tspan4607">is the 44</tspan>
+            </tspan>
+            <tspan
+               id="tspan4613"
+               y="19619"
+               class="TextPosition">
+              <tspan
+                 style="font-size:368px;fill:#000000;stroke:none"
+                 id="tspan4611"
+                 font-size="368px">th</tspan>
+            </tspan>
+            <tspan
+               id="tspan4617"
+               y="19886"
+               class="TextPosition">
+              <tspan
+                 style="fill:#000000;stroke:none"
+                 id="tspan4615">President of the</tspan>
+            </tspan>
+            <tspan
+               id="tspan4621"
+               y="20597"
+               x="5568"
+               class="TextPosition">
+              <tspan
+                 style="fill:#000000;stroke:none"
+                 id="tspan4619">United States of America?</tspan>
+            </tspan>
+          </tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.01,0,0,0.01,-22.634445,-83.446905)"
+       style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+       id="g4729"
+       class="com.sun.star.drawing.TextShape">
+      <g
+         id="id8">
+        <rect
+           style="fill:none;stroke:none"
+           id="rect4712"
+           height="2797"
+           width="7750"
+           y="15985"
+           x="2269"
+           class="BoundingBox" />
+        <path
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="path4714"
+           d="M 6144,18780 H 2270 v -2794 h 7747 v 2794 z" />
+        <text
+           id="text4726"
+           class="TextShape">
+          <tspan
+             style="font-weight:400;font-size:635px;font-family:'Liberation Sans', sans-serif"
+             id="tspan4724"
+             font-weight="400"
+             font-size="635px"
+             class="TextParagraph">
+            <tspan
+               id="tspan4718"
+               y="16687"
+               x="2520"
+               class="TextPosition">
+              <tspan
+                 style="fill:#000000;stroke:none"
+                 id="tspan4716">Presidents of the United</tspan>
+            </tspan>
+            <tspan
+               id="tspan4722"
+               y="17398"
+               x="2520"
+               class="TextPosition">
+              <tspan
+                 style="fill:#000000;stroke:none"
+                 id="tspan4720">States of America.</tspan>
+            </tspan>
+          </tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.01,0,0,0.01,-22.634445,-83.446905)"
+       style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+       id="g4750"
+       class="com.sun.star.drawing.TextShape">
+      <g
+         id="id9">
+        <rect
+           style="fill:none;stroke:none"
+           id="rect4731"
+           height="2795"
+           width="7748"
+           y="16240"
+           x="10398"
+           class="BoundingBox" />
+        <text
+           id="text4747"
+           class="TextShape">
+          <tspan
+             style="font-weight:400;font-size:635px;font-family:'Liberation Sans', sans-serif"
+             id="tspan4745"
+             font-weight="400"
+             font-size="635px"
+             class="TextParagraph">
+            <tspan
+               id="tspan4735"
+               y="16965"
+               x="10648"
+               class="TextPosition">
+              <tspan
+                 style="fill:#000000;stroke:none"
+                 id="tspan4733">44</tspan>
+            </tspan>
+            <tspan
+               id="tspan4739"
+               y="16698"
+               class="TextPosition">
+              <tspan
+                 style="font-size:368px;fill:#000000;stroke:none"
+                 id="tspan4737"
+                 font-size="368px">th</tspan>
+            </tspan>
+            <tspan
+               id="tspan4743"
+               y="16965"
+               class="TextPosition">
+              <tspan
+                 style="fill:#000000;stroke:none"
+                 id="tspan4741" />
+            </tspan>
+          </tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.01,0,0,0.01,-22.634445,-83.446905)"
+       style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+       id="g4765"
+       class="com.sun.star.drawing.TextShape">
+      <g
+         id="id10">
+        <rect
+           style="fill:none;stroke:none"
+           id="rect4752"
+           height="1146"
+           width="4956"
+           y="16874"
+           x="12429"
+           class="BoundingBox" />
+        <path
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="path4754"
+           d="m 14907,18018 h -2477 v -1143 h 4953 v 1143 z" />
+        <text
+           id="text4762"
+           class="TextShape">
+          <tspan
+             style="font-weight:400;font-size:635px;font-family:'Liberation Sans', sans-serif"
+             id="tspan4760"
+             font-weight="400"
+             font-size="635px"
+             class="TextParagraph">
+            <tspan
+               id="tspan4758"
+               y="17576"
+               x="12680"
+               class="TextPosition">
+              <tspan
+                 style="fill:#000000;stroke:none"
+                 id="tspan4756">Who?</tspan>
+            </tspan>
+          </tspan>
+        </text>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.01,0,0,0.01,-22.634445,-83.446905)"
+       style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+       id="g4783"
+       class="com.sun.star.drawing.LineShape">
+      <g
+         id="id12">
+        <rect
+           style="fill:none;stroke:none"
+           id="rect4776"
+           height="301"
+           width="2034"
+           y="17360"
+           x="10016"
+           class="BoundingBox" />
+        <path
+           style="fill:none;stroke:#000000"
+           inkscape:connector-curvature="0"
+           id="path4778"
+           d="m 10017,17510 h 1602" />
+        <path
+           style="fill:#000000;stroke:none"
+           inkscape:connector-curvature="0"
+           id="path4780"
+           d="m 12049,17510 -450,-150 v 300 z" />
+      </g>
+    </g>
+  </g>
+</svg>
