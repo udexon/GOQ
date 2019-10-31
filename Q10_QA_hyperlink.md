@@ -1,6 +1,8 @@
 
 <img src="https://github.com/udexon/GOQ/blob/master/Obama_Answer.svg?sanitize=true" width="600">
 
+<img src="https://github.com/udexon/GOQ/blob/master/Obama_Question.svg?sanitize=true" width="600">
+
 <img src="https://github.com/udexon/GOQ/blob/master/Link.svg?sanitize=true" height="100">
 
 https://github.com/udexon/GOQ/blob/master/Link.svg
