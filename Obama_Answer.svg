@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="146.63222mm"
-   height="49.112221mm"
-   viewBox="0 0 146.63222 49.112221"
+   width="136.47221mm"
+   height="28.222219mm"
+   viewBox="0 0 136.47222 28.22222"
    version="1.1"
    id="svg4932"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="277.10025"
-     inkscape:cy="-91.661336"
+     inkscape:cy="-91.661339"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,77 +52,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(108.84587,8.7704)">
+     transform="translate(108.84587,-12.1196)">
     <g
-       transform="matrix(0.01,0,0,0.01,-132.37476,-111.33929)"
-       style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
-       id="g4655"
-       class="com.sun.star.drawing.TextShape">
-      <g
-         id="id4">
-        <rect
-           style="fill:none;stroke:none"
-           id="rect4630"
-           height="1908"
-           width="12195"
-           y="10270"
-           x="4809"
-           class="BoundingBox" />
-        <path
-           style="fill:none;stroke:#000000"
-           inkscape:connector-curvature="0"
-           id="path4632"
-           d="M 10906,12176 H 4810 v -1905 h 12192 v 1905 z" />
-        <text
-           id="text4652"
-           class="TextShape">
-          <tspan
-             style="font-weight:400;font-size:635px;font-family:'Liberation Sans', sans-serif"
-             id="tspan4650"
-             font-weight="400"
-             font-size="635px"
-             class="TextParagraph">
-            <tspan
-               id="tspan4636"
-               y="10996"
-               x="5060"
-               class="TextPosition">
-              <tspan
-                 style="fill:#000000;stroke:none"
-                 id="tspan4634">Obama is the 44</tspan>
-            </tspan>
-            <tspan
-               id="tspan4640"
-               y="10729"
-               class="TextPosition">
-              <tspan
-                 style="font-size:368px;fill:#000000;stroke:none"
-                 id="tspan4638"
-                 font-size="368px">th</tspan>
-            </tspan>
-            <tspan
-               id="tspan4644"
-               y="10996"
-               class="TextPosition">
-              <tspan
-                 style="fill:#000000;stroke:none"
-                 id="tspan4642">President of the United</tspan>
-            </tspan>
-            <tspan
-               id="tspan4648"
-               y="11707"
-               x="5060"
-               class="TextPosition">
-              <tspan
-                 style="fill:#000000;stroke:none"
-                 id="tspan4646">States of America.</tspan>
-            </tspan>
-          </tspan>
-        </text>
-      </g>
-    </g>
-    <g
-       transform="matrix(0.01,0,0,0.01,-132.37476,-111.33929)"
+       transform="matrix(0.01,0,0,0.01,-132.63934,-106.04762)"
        style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
        id="g4670"
        class="com.sun.star.drawing.TextShape">
