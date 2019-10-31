@@ -3,7 +3,7 @@
 
 
 
-- Question: Who is the 44th President of the United States of America.
+- Question: Who is the 44th President of the United States of America?
 <img src="https://github.com/udexon/GOQ/blob/master/Obama_Question.svg?sanitize=true" width="600">
 
 
