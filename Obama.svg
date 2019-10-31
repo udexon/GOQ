@@ -10,8 +10,8 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
    width="158.90111mm"
-   height="114.58222mm"
-   viewBox="0 9000 15890.111 9399.8589"
+   height="114.58221mm"
+   viewBox="0 9000 15890.111 9399.8583"
    preserveAspectRatio="xMidYMid"
    xml:space="preserve"
    id="svg4793"
@@ -34,8 +34,8 @@
    id="namedview4795"
    showgrid="false"
    inkscape:zoom="2.1191865"
-   inkscape:cx="292.71328"
-   inkscape:cy="70.672147"
+   inkscape:cx="330.46361"
+   inkscape:cy="317.12979"
    inkscape:window-x="67"
    inkscape:window-y="27"
    inkscape:window-maximized="1"
@@ -304,7 +304,7 @@
    id="defs4594" />
  <g
    id="g4599"
-   transform="translate(-2255.889,-2756.8887)">
+   transform="translate(-2255.889,-2286.071)">
   <g
    id="id2"
    class="Master_Slide">
@@ -319,7 +319,7 @@
  <g
    class="SlideGroup"
    id="g4791"
-   transform="translate(-2255.889,-2756.8887)">
+   transform="translate(-2255.889,-2286.071)">
   <g
    id="g4789">
    <g
