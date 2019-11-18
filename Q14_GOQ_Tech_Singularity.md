@@ -18,9 +18,9 @@ The reader may or may not find an answer.
 
 However, if a question is published on the Internet, N readers may attempt in it, increasing the likelihood to obtain answers.
 
-Homoiconic Java Sensor at this stage is a question, or an incomplete answer, as I know some principles, but do not have the code yet.
+The proposal for homoiconic robotics with Android Java sensors at this stage is a question, or an incomplete answer, as we have laid out some basic principles, but do not have the working homoiconic code yet.
 
-An answer may lead to more question and may also be incomplete. 
+An answer may lead to more questions and may also be incomplete. 
 
 Singularity is about time of arrival and resources required.
 
