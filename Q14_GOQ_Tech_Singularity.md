@@ -43,8 +43,26 @@ In short, out Countdown Towards Technological Singularity (CTTS) will consists o
 A Tamagotchi clone is a non-technical analogy to describe a mobile devices with various sensors. This is to make the majority of non-physics oriented programmers to be more aware of the physical environment, and oriented their code and variables towards physical quantities. Robotics and game programmers have already done this. However, more awareness is needed so that the majority of programmers become "physics aware".
 
 
-### #GOQ_Q16
+### #GOQ_Q17
 - Robotics projects have existed for decades. What is so unique about homoiconic robotics that we would be convinced that this is going to be the last straw that breaks the camel's back, so to speak, that will bring us toward technological singularity?
+
+Suppose we are going to design a Tamagotchi clone (TC) on an Android mobile device. 
+
+TC will have access to all the sensors. Its outputs are limited to the screen, USB, network, speakers, vibration and sdcard. To give an extremely cruel analogy, if TC becomes human like, it will be like a baby without limbs. This is an important limitation that we should be aware, as we shall compare it to our next goal -- R0D0, a wheeled Droid capable of making funny sounds.
+
+So far our discussions have not mentioned anything that is beyond the scope of conventional robotics, i.e. input, output, decision making. With homoiconic robotics (HIR), any and all functions involved in input, output and decision making, can be mapped to opcodes of a stack machine. 
+
+
+Grammatically, homoicon is equivalent to homoiconic code or homoiconic form or opcode.
+
+A homoicon is a node in a graph. As such, it can be connected by N edges to other nodes, where some of the edges may form a closed path.
+
+Each connecting edge represent a function. As such, a homoiconic node can be examined using N functions, as the programmer desires. 
+
+As each node can be connected to N_i edges, M nodes in sequence can then have up to Pi N_i combinations. Our hypothesis is that, such homoiconic combination of functions mimicks how human brain thinks of trials and errors to work solutions when solving problems. 
+
+This mechanism, although exists in various solutions, have not been generalized ....
+
 
 Tamagotchi and R2D2
 
