@@ -1,6 +1,6 @@
 ### GOQ_Q11: What would be the biggest obstacle towards achieving technological singularity?
 
-Answer: Physical decoupling
+Answer: Physical decoupling.
 
 Physical decoupling refers to the usage of variables by programmers which are not directly associated to physical quantities.
 
