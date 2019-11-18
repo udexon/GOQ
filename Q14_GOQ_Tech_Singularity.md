@@ -43,6 +43,9 @@ In short, out Countdown Towards Technological Singularity (CTTS) will consists o
 A Tamagotchi clone is a non-technical analogy to describe a mobile devices with various sensors. This is to make the majority of non-physics oriented programmers to be more aware of the physical environment, and oriented their code and variables towards physical quantities. Robotics and game programmers have already done this. However, more awareness is needed so that the majority of programmers become "physics aware".
 
 
+### #GOQ_Q16
+- Robotics projects have existed for decades. What is so unique about homoiconic robotics that we would be convinced that this is going to be the last straw that breaks the camel's back?
+
 Tamagotchi and R2D2
 
 React native sensors -- more programmer adoption. Good sign.
