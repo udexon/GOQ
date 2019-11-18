@@ -17,3 +17,8 @@ Our solution towards TS is based on Homoiconism or Homoiconic Graph Theory, as o
 
 https://github.com/udexon/GOQ/blob/master/README.md#GOQ_Q4
 
+Homoiconism refers to the procedures, analyses and related topics where non-homoiconic program code is transformed into homoiconic form.
+
+We believe we have invented a novel, generalized procedure for transforming programs written in any known programming language into a Forth like Reverse Polish Notation syntax, thus making homoiconism accessible to a much wider audience than previously possible.
+
+https://github.com/udexon/GOEHDOM/blob/master/Homoiconicity.md#forth--phos-smashlets
