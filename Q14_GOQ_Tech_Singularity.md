@@ -44,7 +44,7 @@ A Tamagotchi clone is a non-technical analogy to describe a mobile devices with 
 
 
 ### #GOQ_Q16
-- Robotics projects have existed for decades. What is so unique about homoiconic robotics that we would be convinced that this is going to be the last straw that breaks the camel's back?
+- Robotics projects have existed for decades. What is so unique about homoiconic robotics that we would be convinced that this is going to be the last straw that breaks the camel's back, so to speak, that will bring us toward technological singularity?
 
 Tamagotchi and R2D2
 
