@@ -37,6 +37,12 @@ Again, an ancestor of R2D2, perhaps to be called R0D0, is an apt analogy, as a d
 In short, out Countdown Towards Technological Singularity (CTTS) will consists of developing a Tamagotchi clone in 2020 to producing R0D0 by 2030.
 
 
+### #GOQ_Q16
+- In technical terms, what are the efforts required in upgrading a Tamagotchi clone to R0D0?
+
+A Tamagotchi clone is a non-technical analogy to describe a mobile devices with various sensors. This is to make the majority of non-physics oriented programmers to be more aware of the physical environment, and oriented their code and variables towards physical quantities. Robotics and game programmers have already done this. However, more awareness is needed so that the majority of programmers become "physics aware".
+
+
 Tamagotchi and R2D2
 
 React native sensors -- more programmer adoption. Good sign.
