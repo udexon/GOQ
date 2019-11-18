@@ -59,10 +59,17 @@ A homoicon is a node in a graph. As such, it can be connected by N edges to othe
 
 Each connecting edge represent a function. As such, a homoiconic node can be examined using N functions, as the programmer desires. 
 
-As each node can be connected to N_i edges, M nodes in sequence can then have up to Pi N_i combinations. Our hypothesis is that, such homoiconic combination of functions mimicks how human brain thinks of trials and errors to work solutions when solving problems. 
+As each node can be connected to N_i edges, M nodes in sequence can then have up to <img src="https://render.githubusercontent.com/render/math?math=N_0 N_1  ... N_{M-1}"> combinations. Our hypothesis is that, such homoiconic combination of functions mimicks how human brain thinks of trials and errors to work solutions when solving problems. 
 
 This mechanism, although exists in various solutions, have not been generalized ....
 
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
+<img src="https://render.githubusercontent.com/render/math?math={\Pi}^{M}_{i} N_i">
+
+<img src="https://render.githubusercontent.com/render/math?math={\Pi}^{M}_{i} N_0 \dot N_1 \dot ... N_i">
+
+<img src="https://render.githubusercontent.com/render/math?math=N_0 N_1  ... N_{M-1}">
 
 Tamagotchi and R2D2
 
