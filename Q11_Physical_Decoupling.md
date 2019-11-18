@@ -9,5 +9,9 @@ From the time a human baby was born, it associates physical objects and events t
 Although programming education has reached younger children over the years, when a novice programmer learns to assign an integer value to a variable, say in the C programming language, `int a = 3;` the instructors or tutorials materials have usually overlooked how the number expressed by the integer value `3`. Eventually, the majority of programmers nowadays, write or maintain code without direct reference to physical quantities, although subconcisously, everyone is aware that a line of code corresponds to some monetary income, which will then pay for heating or food, for the survival of the programmer.
 
 
+### GOQ_Q12: If we overcome the physical decoupling amongst programmers, how long would it take for us to achieve technological singularity, and based on what new discoveries we can achieve technological singularity within the predicted time frame?
+
+Answer: 10 years. That would coincide with Kurzweil's prediction, although he did not provide the detailed roadmap and mechanisms by which technological singularity (TS) can be achieved.
+
 
 
