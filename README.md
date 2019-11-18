@@ -29,7 +29,7 @@ By the way, I started this project as an experiment to address issues related to
 
 - GOQ_Q3: [ What would be the best interface to present the ideas or repositories owned by `udexon` to  third parties who are unfamiliar with his work?](https://github.com/udexon/GOQ/blob/master/Q2_Media_Control.md#GOQ_Q3)
 
-#### GOQ_Q4: [ How may one model the mechanisms of a programmer writing programs? ](https://github.com/udexon/GOEHDOM/blob/master/Homoiconicity.md)
+- <a name="GOQ_Q4"> GOQ_Q4: [ How may one model the mechanisms of a programmer writing programs? ](https://github.com/udexon/GOEHDOM/blob/master/Homoiconicity.md) </a>
 
 - GOQ_Q5: [ Will GOQ_Q4 be drown by other questions, e.g. by parties who have vested interested in media control? ](https://github.com/udexon/GOQ/blob/master/Q2_Media_Control.md#GOQ_Q5)
 - GOQ_Q6: [ What is (are) the main difference(s) between face to face communications and online communications? ](https://github.com/udexon/GOQ/blob/master/Q6_diff_face_online.md#goq_q6-what-is-are-the-main-differences-between-face-to-face-communications-and-online-communications)
