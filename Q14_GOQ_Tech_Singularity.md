@@ -26,10 +26,18 @@ The proposal for homoiconic robotics with Android Java sensors at this stage is 
 ### #GOQ_Q15
 - Can you explain the efforts required in working towards technological singularity using non-technical analogies?
 
+https://en.wikipedia.org/wiki/Tamagotchi
+
+- The Tamagotchi (たまごっち, IPA: [tamaɡotꜜtɕi]) is a handheld digital pet, created in Japan by Akihiro Yokoi [ja] of WiZ and Aki Maita of Bandai. It was released by Bandai on November 23, 1996 in Japan and May 1, 1997 in the rest of the world, quickly becoming one of the biggest toy fads of the 1990s and early 2000s.
+
+With the widespread of mobile phones, by 2020, almost everyone on Earth can have a replica of Tamagotchi to carry around all day long. Tamagotchi is an apt analogy as it does not do much. In the earliest phase of our Countdown Towards Technological Singularity (CTTS), users and programmers should perhaps view their mobile phones like a Tamagotchi, but potentially to be developed to be an ancestor of R2D2, the Star Wars droid which produces funny sound and only move on wheels by 2030.
+
+Again, an ancestor of R2D2, perhaps to be called R0D0, is an apt analogy, as a droid moving on wheels producing funny sounds would not be too demanding for a boy faraway in Karnataka, India, to develop. In fact, by 2019, Boston Dynamics has already produced a humanoid soldier who can point and shoot, not reacting towards its human owners although being abused, as shown in a recent promotional video.
+
+In short, out Countdown Towards Technological Singularity (CTTS) will consists of developing a Tamagotchi clone in 2020 to producing R0D0 by 2030.
 
 
-
-Tamagochi and R2D2
+Tamagotchi and R2D2
 
 React native sensors -- more programmer adoption. Good sign.
 
