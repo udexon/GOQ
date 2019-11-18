@@ -10,6 +10,8 @@ Graph of Questions is a novel method of organizing such post-length comments as 
 - software engineering (homoiconism for various programming languages), to 
 - artificial intelligence.
 
+We believe GOQ can be an enabler which further levels the playing fields for techical professionals, such as programmers, who may not have the time and resources to write extensively, compared to academics and students in universities.
+
 A question is a trigger for a reader (human or machine) to begin the process to find the answers.
 
 The reader may or may not find an answer.
