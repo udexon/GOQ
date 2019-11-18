@@ -24,3 +24,11 @@ Homoiconism refers to the procedures, analyses and related topics where non-homo
 We believe we have invented a novel, generalized procedure for transforming programs written in any known programming language into a Forth like Reverse Polish Notation syntax, thus making homoiconism accessible to a much wider audience than previously possible.
 
 https://github.com/udexon/GOEHDOM/blob/master/Homoiconicity.md#forth--phos-smashlets
+
+
+### #GOQ_Q13
+- What are some practical examples of homoiconic robotics?
+
+https://groups.google.com/forum/?hl=en-GB#!topic/comp.lang.forth/5tnF3XxOjyQ
+
+https://github.com/udexon/GOEHDOM/tree/master/Phos_Smashlet_Java
