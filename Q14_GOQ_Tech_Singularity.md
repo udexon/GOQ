@@ -16,13 +16,17 @@ A question is a trigger for a reader (human or machine) to begin the process to 
 
 The reader may or may not find an answer.
 
+An answer may lead to more questions and may also be incomplete. 
+
 However, if a question is published on the Internet, N readers may attempt in it, increasing the likelihood to obtain answers.
 
 The proposal for homoiconic robotics with Android Java sensors at this stage is a question, or an incomplete answer, as we have laid out some basic principles, but do not have the working homoiconic code yet. We hope that readers who have similar interests or who are more familiar with Android Java sensors would be able to contribute. As such, GOQ serves to attract more contributors with similar interests although some of the collaborators do not have the complete answer yet.
 
+Tamagochi and R2D2
+
+React native sensors -- more programmer adoption. Good sign.
 
 
-An answer may lead to more questions and may also be incomplete. 
 
 Singularity is about time of arrival and resources required.
 
