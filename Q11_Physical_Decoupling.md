@@ -15,5 +15,5 @@ Answer: 10 years. That would coincide with Kurzweil's prediction, although he di
 
 Our solution towards TS is based on Homoiconism or Homoiconic Graph Theory, as outlined in:
 
-https://github.com/udexon/GOQ/blob/master/README.md#goq_q4--how-may-one-model-the-mechanisms-of-a-programmer-writing-programs-
+https://github.com/udexon/GOQ/blob/master/README.md#GOQ_Q4
 
