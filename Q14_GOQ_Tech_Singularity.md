@@ -61,7 +61,18 @@ Each connecting edge represent a function. As such, a homoiconic node can be exa
 
 As each node can be connected to <img src="https://render.githubusercontent.com/render/math?math=N_i"> edges, M nodes in sequence can then have up to <img src="https://render.githubusercontent.com/render/math?math=N_0 N_1  ... N_{M-1}"> combinations. Our hypothesis is that, such homoiconic combination of functions mimicks how human brain thinks of trials and errors to work solutions when solving problems. 
 
-This mechanism, although exists in various solutions, have not been generalized ....
+This selection mechanism for candidate function, although exists in various solutions, such as genetic algorithms, have not been generalized to the extent where every conceivable program function that has been written by human programmers can be included as a candidate function for the search procedure to satisfy some goals.
+
+### #GOQ_Q18 (Hypothesis)
+- This selection mechanism for candidate function, although exists in various solutions, such as genetic algorithms, have not been generalized to the extent where every conceivable program function that has been written by human programmers can be included as a candidate function for the search procedure to satisfy some goals.
+
+Hypothesis is essentially a question that has not been answered, presented as a statement without question mark.
+
+Graph of Questions may include hypotheses as #GOQ entries, so that collaborators can participate to find solutions.
+
+A hypothesis is valuable not because there is already a solution, but providing pointers to collaborators a general direction for finding solutions.
+
+...
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
