@@ -57,7 +57,9 @@ Grammatically, homoicon is equivalent to homoiconic code or homoiconic form or o
 
 A homoicon is a node in a graph. As such, it can be connected by N edges to other nodes, where some of the edges may form a closed path.
 
-Each connecting edge represent a function. As such, a homoiconic node can be examined using N functions, as the programmer desires. 
+Each connecting edge represents a function. As such, a homoiconic node can be examined using N functions, as the programmer desires. 
+
+(A function that takes multiple inputs will draw its input from a single node, which in turn draws its inputs from multiple nodes, each having exactly one outgoing edge.)
 
 As each node can be connected to <img src="https://render.githubusercontent.com/render/math?math=N_i"> edges, M nodes in sequence can then have up to <img src="https://render.githubusercontent.com/render/math?math=N_0 N_1  ... N_{M-1}"> combinations. Our hypothesis is that, such homoiconic combination of functions mimics how human brain thinks of trials and errors to work solutions when solving problems. 
 
