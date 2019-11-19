@@ -59,7 +59,7 @@ A homoicon is a node in a graph. As such, it can be connected by N edges to othe
 
 Each connecting edge represent a function. As such, a homoiconic node can be examined using N functions, as the programmer desires. 
 
-As each node can be connected to <img src="https://render.githubusercontent.com/render/math?math=N_i"> edges, M nodes in sequence can then have up to <img src="https://render.githubusercontent.com/render/math?math=N_0 N_1  ... N_{M-1}"> combinations. Our hypothesis is that, such homoiconic combination of functions mimicks how human brain thinks of trials and errors to work solutions when solving problems. 
+As each node can be connected to <img src="https://render.githubusercontent.com/render/math?math=N_i"> edges, M nodes in sequence can then have up to <img src="https://render.githubusercontent.com/render/math?math=N_0 N_1  ... N_{M-1}"> combinations. Our hypothesis is that, such homoiconic combination of functions mimics how human brain thinks of trials and errors to work solutions when solving problems. 
 
 This selection mechanism for candidate function, although exists in various solutions, such as genetic algorithms, have not been generalized to the extent where every conceivable program function that has been written by human programmers can be included as a candidate function for the search procedure to satisfy some goals.
 
