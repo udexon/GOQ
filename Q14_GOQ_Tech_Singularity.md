@@ -64,7 +64,7 @@ As each node can be connected to <img src="https://render.githubusercontent.com/
 This selection mechanism for candidate function, although exists in various solutions, such as genetic algorithms, have not been generalized to the extent where every conceivable program function that has been written by human programmers can be included as a candidate function for the search procedure to satisfy some goals.
 
 ### #GOQ_Q18 (Hypothesis)
-- This selection mechanism for candidate function, although exists in various solutions, such as genetic algorithms, have not been generalized to the extent where every conceivable program function that has been written by human programmers can be included as a candidate function for the search procedure to satisfy some goals.
+- This selection mechanism for candidate function, although has existed in various fields, such as genetic algorithms, have not been generalized to the extent where ***every conceivable program function that has been written by human programmers*** can be included as a candidate function for the search procedure to satisfy some goals.
 
 Hypothesis is essentially a question that has not been answered, presented as a statement without question mark.
 
